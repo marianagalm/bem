@@ -22,6 +22,7 @@
 }
 
 /* bloco */
+
 .produto-imagem {
     /* elemento */
     width: 100%;
@@ -54,20 +55,18 @@
 }
 
 .img-logo-header {
-    max-width: 356px;
-    margin-left: 36%;
-    padding: 16px;
-}
+        max-width: 356px;
+        margin-left: 36%;
+        padding: 16px;
+    }
 
-#header>.container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+    #header>.container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
 
-#header li {
-    display: inline;
-    margin-left: 8px;
-}
-
-/*# sourceMappingURL=main.css.map */
+    #header li {
+        display: inline;
+        margin-left: 8px;
+    }

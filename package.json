@@ -1,0 +1,23 @@
+{
+  "name": "css-bem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianagalm/bem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianagalm/bem/issues"
+  },
+  "homepage": "https://github.com/marianagalm/bem#readme",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.89.2"
+  }
+}
